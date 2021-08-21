@@ -54,9 +54,13 @@ table {
   
 th, td {
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid rgb(185, 183, 183);
     font-weight: 700;
   }
+#black-border{
+    border-bottom: 2px solid rgb(14, 14, 14);
+  }
+
   /* footer  */
 footer{
     width: 60%;
